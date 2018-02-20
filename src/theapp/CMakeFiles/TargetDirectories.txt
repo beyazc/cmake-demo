@@ -1,0 +1,3 @@
+/home/beyazc/projects/cmakedemo/src/theapp/CMakeFiles/rebuild_cache.dir
+/home/beyazc/projects/cmakedemo/src/theapp/CMakeFiles/theapp.dir
+/home/beyazc/projects/cmakedemo/src/theapp/CMakeFiles/edit_cache.dir

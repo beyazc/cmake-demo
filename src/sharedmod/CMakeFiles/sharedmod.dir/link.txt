@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++17  -shared -Wl,-soname,libsharedmod.so -o /home/beyazc/projects/cmakedemo/bin/libsharedmod.so CMakeFiles/sharedmod.dir/pisym.cpp.o  -L/home/beyazc/projects/cmakedemo/src/../bin -Wl,-rpath,/home/beyazc/projects/cmakedemo/src/../bin /home/beyazc/projects/cmakedemo/bin/liblibutil.a 

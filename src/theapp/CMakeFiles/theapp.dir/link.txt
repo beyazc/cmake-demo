@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17   CMakeFiles/theapp.dir/main.cpp.o  -o /home/beyazc/projects/cmakedemo/bin/theapp  -L/home/beyazc/projects/cmakedemo/src/../bin -Wl,-rpath,/home/beyazc/projects/cmakedemo/src/../bin:/home/beyazc/projects/cmakedemo/bin /home/beyazc/projects/cmakedemo/bin/libsharedmod.so /home/beyazc/projects/cmakedemo/bin/liblibutil.a 

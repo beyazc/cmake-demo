@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libdef.h
+
+/home/beyazc/projects/cmakedemo/src/libutil/random.cpp
+random.h
+/home/beyazc/projects/cmakedemo/src/libutil/random.h
+random
+-
+array
+-
+
+/home/beyazc/projects/cmakedemo/src/libutil/random.h
+libdef.h
+/home/beyazc/projects/cmakedemo/src/libutil/libdef.h
+optional
+-
+

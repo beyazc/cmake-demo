@@ -1,0 +1,11 @@
+/home/beyazc/projects/cmakedemo/src/CMakeFiles/rebuild_cache.dir
+/home/beyazc/projects/cmakedemo/src/CMakeFiles/edit_cache.dir
+/home/beyazc/projects/cmakedemo/src/libutil/CMakeFiles/rebuild_cache.dir
+/home/beyazc/projects/cmakedemo/src/libutil/CMakeFiles/libutil.dir
+/home/beyazc/projects/cmakedemo/src/libutil/CMakeFiles/edit_cache.dir
+/home/beyazc/projects/cmakedemo/src/sharedmod/CMakeFiles/rebuild_cache.dir
+/home/beyazc/projects/cmakedemo/src/sharedmod/CMakeFiles/sharedmod.dir
+/home/beyazc/projects/cmakedemo/src/sharedmod/CMakeFiles/edit_cache.dir
+/home/beyazc/projects/cmakedemo/src/theapp/CMakeFiles/rebuild_cache.dir
+/home/beyazc/projects/cmakedemo/src/theapp/CMakeFiles/theapp.dir
+/home/beyazc/projects/cmakedemo/src/theapp/CMakeFiles/edit_cache.dir
